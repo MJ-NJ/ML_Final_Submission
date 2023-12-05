@@ -1,0 +1,1 @@
+# To run , download the llama-2-7b-chat.ggmlv3.q8_0 bin files from hugging face and put it in this directory
